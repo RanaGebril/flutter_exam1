@@ -1,5 +1,5 @@
 import 'package:exam/screen2/Rating.dart';
-import 'package:exam/screen2/bottum_container.dart';
+import 'package:exam/screen2/bottom_container.dart';
 import 'package:exam/screen2/items.dart';
 import 'package:flutter/material.dart';
 import 'package:carousel_slider/carousel_slider.dart';
