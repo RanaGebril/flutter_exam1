@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class Home1 extends StatelessWidget {
-  static const String routeName = "screen";
+  static const String routeName = "screen1";
   const Home1({super.key});
 
   @override
